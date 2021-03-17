@@ -6,7 +6,7 @@ Le fichier __results__ contient les résultats sour forme de plot du programme _
 
 ## Process de développement
 
-###Etape 1 : observation des data:
+### Etape 1 : observation des data:
 
 Termes clef : Image mating / Inpainting récupéré des notes de l'entretient
 
@@ -24,7 +24,7 @@ A creuser surement bcp de manières de faire ca avec open cv
 ML : entraînement avec un auto-encodeur convolutionnel pour reconstruire l’image
 
 
-###Etape 2 : Recherches
+### Etape 2 : Recherches
 
 Premières recherches : medium,  youtube , tensorflow tutorial
 
