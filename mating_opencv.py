@@ -38,7 +38,7 @@ def hardcore_color_inv(mask):
 
 if __name__ ==  "__main__":
 
-
+    #actually data path to the file containing the data
     project_path = "C:/Users/G.R.E.G/Documents/Travail/test_technique_entreprise/enlapse/data/"
 #    for img in os.listdir(project_path):
 #        print(img)
