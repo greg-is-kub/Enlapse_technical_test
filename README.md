@@ -4,7 +4,7 @@ Dans un but de présentation, le code pour le Neural Network a été fait sur no
 
 Le fichier __results__ contient les résultats sour forme de plot du programme __mating_opencv.py__ mais les données ne sont aps facileent visibles, je conseille la visualisation par opencv directement dans le programme.
 
-__/!\ important /!\__ Changer la valeur de la variable "project path" dans chacun des programmes afin de faire tourner le programme, cette variable doit être de la valeur 
+__ /!\ important /!\ __ Changer la valeur de la variable "project path" dans chacun des programmes afin de faire tourner le programme, cette variable doit être de la valeur 
 
 ## Process de développement
 
