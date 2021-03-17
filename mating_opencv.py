@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-TP3 de ML
-
 by : Grégoire Kubler
 """
 
